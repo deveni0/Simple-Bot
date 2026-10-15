@@ -7,7 +7,7 @@ export async function subBots(client) {
     root: "./sessions", // مسار فولدر السيشنات
     storage: "auto", // خليها auto بتاعت السيشن
     max: 60, // عدد البوتات
-    code: "VA12345", // كود الربط
+    code: "VA123456", // كود الربط
     main: client,
     settings: {},
   });
