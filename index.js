@@ -11,7 +11,7 @@ const client = new Client({
   prefix: ["!", "."],
   library: [baileys],
   session_storage: { 
-    type: "sqlite", // or json 
+    type: "json", // or sqlite 
     path: "./auth" 
   },
 /* ====== linking ======= */
