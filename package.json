@@ -14,10 +14,6 @@
   },
   "dependencies": {
     "baileys": "npm:@whiskeysockets/baileys@latest",
-    "better-sqlite3": "^11.10.0",
     "meowsab": "github:deveni0/meowsab"
-  },
-  "overrides": {
-    "better-sqlite3": "^11.10.0"
   }
 }
